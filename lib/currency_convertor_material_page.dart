@@ -42,7 +42,7 @@ class _CurrencyConvertorMaterialPage
         backgroundColor: Colors.blueGrey,
         title: Text(
           'Currency Convertor',
-          style: TextStyle(color: Colors.white),
+          style: TextStyle(color: Colors.white, fontWeight: FontWeight.w500),
         ),
         centerTitle: true,
       ),
