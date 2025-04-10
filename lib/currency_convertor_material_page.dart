@@ -63,6 +63,7 @@ class _CurrencyConvertorMaterialPage
                 ),
               ),
 
+              SizedBox(height: 20),
               // TextFied for input
               TextField(
                 controller: textEditingController,
